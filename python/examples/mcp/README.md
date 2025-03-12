@@ -23,9 +23,9 @@ echo "$HOME/Library/Application Support/Claude/claude_desktop_config.json"
 {
   "mcpServers": {
     "stock": {
-      "command": "/Users/pengren/go/github.com/l402-protocol/l402-client-example/mcp/venv/bin/python",
+      "command": "/Users/danielzayas/Development/personal/l402-client-example/mcp/venv/bin/python",
       "args": [
-        "/Users/pengren/go/github.com/l402-protocol/l402-client-example/mcp/stock-server.py"
+        "/Users/danielzayas/Development/personal/l402-client-example/mcp/stock-server.py"
       ]
     }
   }
