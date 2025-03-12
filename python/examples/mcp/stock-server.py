@@ -12,7 +12,7 @@ from lightspark import LightsparkSyncClient
 from dotenv import load_dotenv
 
 # load_dotenv()
-# load_dotenv('/Users/pengren/go/github.com/l402-protocol/l402-client-example/python/examples/mcp/.env')
+# load_dotenv('/Users/danielzayas/Development/personal/l402-client-example/python/examples/mcp/.env')
 load_dotenv()  # This will load from the .env file in the current directory
 
 def setup_lightspark_client():
